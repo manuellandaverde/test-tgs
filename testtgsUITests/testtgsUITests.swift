@@ -2,7 +2,7 @@
 //  testtgsUITests.swift
 //  testtgsUITests
 //
-//  Created by Carlos Landaverde on 7/7/21.
+//  Created by Manuel Landaverde on 7/7/21.
 //
 
 import XCTest
